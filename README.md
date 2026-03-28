@@ -37,8 +37,8 @@ I use a variety of tools and technologies across projects, including:
 Here are some of the projects in this repository:
 
 * 📈 Youtube data analysis 
-* 🛒 Customer Segmentation
-* 📊 Dashboard Projects (Power BI / Tableau)
+* Time Series Data Analytics (Stock-market-case-study)
+* 📊 GeoSapatial Data Analytics (Zomato data)
 * 🔍 Exploratory Data Analysis (EDA) on various datasets
 
 
